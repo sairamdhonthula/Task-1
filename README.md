@@ -33,3 +33,4 @@ All scans, captures, and exploitation were performed only on lab machines I own/
 <img width="1101" height="403" alt="Screenshot 2025-09-18 221843" src="https://github.com/user-attachments/assets/a72b481c-3a8e-408c-a621-944abdd29ec2" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-18 215039" src="https://github.com/user-attachments/assets/5786160c-89fd-4991-bbb5-6f07edb0010a" />
 <img width="646" height="355" alt="Screenshot 2025-09-18 215019" src="https://github.com/user-attachments/assets/e489be31-7b1e-418f-8601-b097d5bc8893" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-18 223320" src="https://github.com/user-attachments/assets/2e3862a5-6ad4-4d4e-8828-db7d520dbeab" />
