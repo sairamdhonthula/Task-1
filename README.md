@@ -25,3 +25,11 @@ Produce deliverables: screenshots, cheatsheet.md, scan outputs, 5-min demo video
 Safe & Ethical Notice
 
 All scans, captures, and exploitation were performed only on lab machines I own/control (Kali & Metasploitable2). Do not run these techniques on networks or systems without explicit permission.
+<img width="622" height="412" alt="Screenshot 2025-09-18 222905" src="https://github.com/user-attachments/assets/f7381e17-be3b-40fa-b695-0e052592b0d2" />
+<img width="524" height="414" alt="Screenshot 2025-09-18 221931" src="https://github.com/user-attachments/assets/3f2f0a51-a4b2-4be8-9ab8-42629666335d" />
+<img width="464" height="418" alt="Screenshot 2025-09-18 222952" src="https://github.com/user-attachments/assets/06b88b7a-73f0-4992-9a78-d9136fcaecea" />
+<img width="680" height="419" alt="Screenshot 2025-09-18 222932" src="https://github.com/user-attachments/assets/9dac8062-c6b4-4b50-8102-0cf54fc1b2ff" />
+<img width="946" height="394" alt="Screenshot 2025-09-18 221903" src="https://github.com/user-attachments/assets/50129dec-2a2c-478a-9604-bae49a544cb7" />
+<img width="1101" height="403" alt="Screenshot 2025-09-18 221843" src="https://github.com/user-attachments/assets/a72b481c-3a8e-408c-a621-944abdd29ec2" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-18 215039" src="https://github.com/user-attachments/assets/5786160c-89fd-4991-bbb5-6f07edb0010a" />
+<img width="646" height="355" alt="Screenshot 2025-09-18 215019" src="https://github.com/user-attachments/assets/e489be31-7b1e-418f-8601-b097d5bc8893" />
